@@ -1,0 +1,616 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/components/Tabs/Topbar.jsx:19
+msgid "Woo-Subscription"
+msgstr ""
+
+#: src/components/Tabs/Topbar.jsx:20
+msgid "by wppath"
+msgstr ""
+
+#: src/components/Tabs/Topbar.jsx:30
+msgid "Subscriptions"
+msgstr ""
+
+#: src/components/Tabs/Topbar.jsx:36
+#: src/pages/Settings.jsx:15
+msgid "Settings"
+msgstr ""
+
+#: src/components/Tabs/Topbar.jsx:44
+msgid "Check Premium Options"
+msgstr ""
+
+#: src/components/Tabs/index.jsx:15
+#: src/pages/settings/General.jsx:24
+msgid "General Settings"
+msgstr ""
+
+#: src/components/Tabs/index.jsx:21
+#: src/pages/settings/Additionaloptions.jsx:19
+msgid "Additional Settings"
+msgstr ""
+
+#: src/components/Tabs/index.jsx:27
+msgid "Payment Settings"
+msgstr ""
+
+#: src/components/Tabs/index.jsx:33
+#: src/pages/settings/Myaccount.jsx:12
+msgid "My Account"
+msgstr ""
+
+#: src/pages/Licence.jsx:36
+msgid "Activation Key"
+msgstr ""
+
+#: src/pages/Licence.jsx:39
+msgid "Active"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:205
+msgid "List of Subscriptions"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:211
+msgid "All"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:225
+msgid "Bulk Actions"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:226
+msgid "Move to Trash"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:227
+msgid "Change status to Active"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:228
+msgid "Change status to Suspend"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:229
+msgid "Change status to Cancel"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:234
+msgid "Apply"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:255
+msgid "Search..."
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:258
+msgid "Search"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:273
+msgid "of"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:331
+msgid "Status"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:332
+msgid "Product"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:333
+msgid "Subscription"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:334
+msgid "Recurring"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:335
+msgid "Last Order Date"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:336
+msgid "Started"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:337
+msgid "Next Payment"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:338
+msgid "Expires"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:339
+msgid "Orders"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:375
+msgid "Suspend"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:391
+msgid "Cancel Now"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:399
+msgid "Re-active"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:400
+msgid "Cancel"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:407
+msgid "Trash"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:419
+msgid "for"
+msgstr ""
+
+#: src/pages/Subscriptions.jsx:449
+msgid "No subscription order have been added yet."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:10
+msgid "Never (charge the full recurring amount at sign-up)"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:11
+msgid "For Virtual Subscription Products Only"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:112
+msgid "Prorate First Renewal"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:114
+msgid "Customer capable to suspend their subscription up to given number."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:12
+msgid "For All Subscription Products"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:134
+msgid "Sign-up grace period"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:136
+msgid ""
+"Subscriptions created within this many days prior to the Renewal Day will "
+"not be charged at sign-up. Set to zero for all new Subscriptions to be "
+"charged the full recurring amount. Must be a positive number."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:144
+msgid "Sign-up Grace Period"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:164
+msgid "Miscellaneous"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:172
+msgid "Mixed Checkout"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:174
+msgid ""
+"Mixed checkout allow user to order subscription product and general product "
+"toggether."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:195
+msgid "$0 Initial Checkout"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:197
+msgid "Allow initial checkout if cart subtotal is empty."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:23
+msgid "Switching"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:24
+msgid ""
+"Allow subscribers to switch (upgrade or downgrade) between different "
+"subscriptions"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:280
+msgid "Shop manager can manage subscription settings"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:282
+msgid "Shop manager can manage subscription settings."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:29
+msgid "Between Subscription Variations"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:297
+msgid "Yes"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:308
+msgid "No"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:31
+msgid "Allow subscriber to switch their subscription on different variations."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:323
+msgid "Customer suspension"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:325
+msgid ""
+"Customer capable to suspend their subscription up to given number. Set '-1' "
+"for unlimited suspension."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:461
+msgid "Subscription Limits"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:472
+msgid "Active Subscription Limit"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:474
+msgid "Active Subscription Limit per user and product."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:484
+msgid "No Limit"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:484
+msgid "One active subscription per product per customer"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:484
+msgid "One active subscription per customer"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:498
+msgid "Total subscription allowed"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:500
+msgid "Number of total subscription limit for a user."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:518
+#: src/pages/settings/General.jsx:302
+#: src/pages/settings/Scheduleandpayments.jsx:63
+msgid "This item for pro version. Please visit wppath.com for more information."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:52
+msgid "Between Grouped Subscriptions"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:522
+msgid "Number of subscription product allow in cart"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:524
+msgid "Number of subscription allow in cart."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:54
+msgid "Allow subscriber to switch their subscription between grouped subscriptions."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:564
+#: src/pages/settings/General.jsx:421
+#: src/pages/settings/Myaccount.jsx:167
+#: src/pages/settings/Scheduleandpayments.jsx:199
+msgid "Save Changes"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:565
+#: src/pages/settings/General.jsx:422
+#: src/pages/settings/Myaccount.jsx:168
+#: src/pages/settings/Scheduleandpayments.jsx:200
+msgid "Reset Defaults"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:75
+msgid "Synchronization"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:76
+msgid ""
+"Align subscription renewal to a specific day of the week, month or year. "
+"For example, the first day of the month"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:87
+msgid "Synchronise Renewal"
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:89
+msgid "Subscription synchronise on a fixed specific week, day or day of month."
+msgstr ""
+
+#: src/pages/settings/Additionaloptions.jsx:9
+msgid "Never (do not charge any recurring amount)"
+msgstr ""
+
+#: src/pages/settings/General.jsx:101
+msgid "Disable subscription capability of user roles"
+msgstr ""
+
+#: src/pages/settings/General.jsx:12
+msgid "All User"
+msgstr ""
+
+#: src/pages/settings/General.jsx:121
+msgid "Number of items in subscription list page"
+msgstr ""
+
+#: src/pages/settings/General.jsx:123
+msgid "Selected number of item will show in subscription list page."
+msgstr ""
+
+#: src/pages/settings/General.jsx:13
+msgid "Include User"
+msgstr ""
+
+#: src/pages/settings/General.jsx:14
+msgid "Exclude User"
+msgstr ""
+
+#: src/pages/settings/General.jsx:15
+msgid "Include User Role"
+msgstr ""
+
+#: src/pages/settings/General.jsx:150
+msgid "Add to Cart Label"
+msgstr ""
+
+#: src/pages/settings/General.jsx:152
+msgid "Add to cart button text."
+msgstr ""
+
+#: src/pages/settings/General.jsx:16
+msgid "Exclude User Role"
+msgstr ""
+
+#: src/pages/settings/General.jsx:175
+msgid "Place Order Label"
+msgstr ""
+
+#: src/pages/settings/General.jsx:177
+msgid "Order Label."
+msgstr ""
+
+#: src/pages/settings/General.jsx:187
+msgid "Label"
+msgstr ""
+
+#: src/pages/settings/General.jsx:196
+msgid "Renewal Order Settings"
+msgstr ""
+
+#: src/pages/settings/General.jsx:203
+msgid "One time Shipping"
+msgstr ""
+
+#: src/pages/settings/General.jsx:205
+msgid ""
+"If checked, shipping cost will be apply only first time order except all "
+"subscription order. For specific product, you can enable it from product "
+"editor."
+msgstr ""
+
+#: src/pages/settings/General.jsx:225
+msgid ""
+"Charge Shipping cost only during Renewals of Subscriptions when subtotal is "
+"0"
+msgstr ""
+
+#: src/pages/settings/General.jsx:227
+msgid "If checked, apply shipping cost only when subscription subtotal is 0."
+msgstr ""
+
+#: src/pages/settings/General.jsx:274
+msgid "Apply Coupon code discount in renewal order"
+msgstr ""
+
+#: src/pages/settings/General.jsx:276
+msgid "Apply Coupon code discount in renewal order like main order."
+msgstr ""
+
+#: src/pages/settings/General.jsx:29
+msgid "Enable Subscription"
+msgstr ""
+
+#: src/pages/settings/General.jsx:308
+msgid "Apply coupon code discount in renewal order for"
+msgstr ""
+
+#: src/pages/settings/General.jsx:31
+msgid "Enabale / Disable subscriptions."
+msgstr ""
+
+#: src/pages/settings/General.jsx:333
+msgid "Select Users"
+msgstr ""
+
+#: src/pages/settings/General.jsx:359
+msgid "Select Roles"
+msgstr ""
+
+#: src/pages/settings/General.jsx:361
+msgid "Coupon code discount in renewal order for"
+msgstr ""
+
+#: src/pages/settings/General.jsx:382
+msgid "Select user roles"
+msgstr ""
+
+#: src/pages/settings/General.jsx:80
+msgid "Subscriber default role"
+msgstr ""
+
+#: src/pages/settings/General.jsx:82
+msgid ""
+"Choose the default roles to assign to active and inactive subscribers for "
+"record keeping purposes, a user account must be created for subscribers. "
+"Users with the administrator role, such as yourself, will never be "
+"allocated these roles to prevent locking out administrators. When a "
+"subscription is activated, either manually or after a successful purchase, "
+"new users will be assigned this role."
+msgstr ""
+
+#: src/pages/settings/General.jsx:99
+msgid "Inactive subscriber role"
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:111
+msgid "Load billing and shipping address in the subscription details"
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:113
+msgid ""
+"If checked, billing and shipping details will appear in frontend "
+"subscription details page."
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:136
+msgid ""
+"This feature are available in pro version, Please visit our website for pro "
+"version."
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:141
+msgid "Auto Renewal Toggle (Display the auto renewal toggle)"
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:143
+msgid "Show auto Renewal Toggle button in Front End."
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:18
+msgid "Allow Subscribers to push their subscriptions"
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:20
+msgid "If enable subscriber can push their subscription plan."
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:39
+msgid "Allow Subscribers to Resubscribe"
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:41
+msgid ""
+"When enabled, subscribers can resubscribe for their expired / canceled "
+"subscriptions with the same subscription price."
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:61
+msgid "Allow Customer to cancel Subscription"
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:63
+msgid "Allow user to cancel own subscription."
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:88
+msgid "Accept Early Renewal Payment"
+msgstr ""
+
+#: src/pages/settings/Myaccount.jsx:90
+msgid ""
+"With early renewals enabled, customers can renew their subscriptions before "
+"the next payment date."
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:100
+msgid "Remove tax from Subscription order"
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:102
+msgid ""
+"If enabled, applyed tax will be remove from cart total. It remove tax from "
+"general product also, if mixed checkout are allowed."
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:123
+msgid "Accept Manual Payment"
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:125
+msgid ""
+"If enabled, manual payment gateways will be displayed along with automatic "
+"payment gateways in checkout page when subscription product in added in "
+"cart."
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:146
+msgid "Manual Renewal Payments (Accept Manual Renewal OR not)"
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:148
+msgid "Display log in backend."
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:16
+msgid "Retry Failed Payments "
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:171
+msgid "Turn off Automatic Payments"
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:173
+msgid ""
+"If you don't want new subscription purchases to automatically charge "
+"renewal payments, you can turn off automatic payments. Existing automatic "
+"subscriptions will continue to charge customers automatically."
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:18
+msgid ""
+"Attempt to recover recurring revenue that would otherwise be lost due to "
+"payment methods being declined only temporarily."
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:41
+msgid "Set Automated payment method's"
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:43
+msgid "Set automatic payment method for subscription payment automatically."
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:69
+msgid ""
+"Accept all major debit and credit cards as well as local payment methods "
+"with Stripe"
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:89
+msgid ""
+"PayPal's latest, all-in-one checkout solution. Securely accept PayPal "
+"Digital Payments, credit/debit cards and local payment methods."
+msgstr ""
+
+#: src/pages/settings/Scheduleandpayments.jsx:91
+msgid "Manage"
+msgstr ""

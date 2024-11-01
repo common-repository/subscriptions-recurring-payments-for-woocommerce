@@ -1,0 +1,43 @@
+._subscription_price_fields span.wrap >*{
+    flex: 1;
+    margin-right: 10px;
+    width: 16%;
+}
+
+._subscription_price_fields span.wrap >*:last-child{
+    margin-right: 0;
+}
+
+._subscription_trial_length_field span.wrap >*{
+    width: 24.5%;
+}
+._subscription_trial_length_field span.wrap >*:first-child{
+    margin-right: 10px;
+}
+._fre_trail_fields label,
+._subscription_price_field label{
+    display: block;
+}
+._subscription_price_field select,
+._subscription_price_field input{
+    max-width: 33.33%;
+    width: 32.50%;
+}
+
+._fre_trail_fields input[type="number"], 
+._fre_trail_fields select
+{
+    width: 49.5%;
+    display: inline-block;
+}
+._shop_subscription_section{
+    border-bottom: 1px solid;
+}
+hr.subscription_divided {
+    width: 100%;
+    margin: 10px 0;
+    float: left;
+}
+.awc_hidden_label {
+	display: none !important;
+}
